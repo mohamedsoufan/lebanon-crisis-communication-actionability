@@ -1,0 +1,229 @@
+SOURCE: UNICEF Lebanon
+COLLECTION WINDOW: April 1, 2026 – May 7, 2026
+PLATFORMS: Official website (press center) + PDF Flash Update series
+SOURCE TYPE: UN agency
+TOTAL ITEMS IN DATASET: 6 (3 Flash Update PDFs + 3 website press releases)
+
+NOTE ON SOURCE SELECTION:
+The official UNICEF Lebanon website was used for press releases as it provides verifiable
+public-facing institutional updates. Three Flash Update PDFs (FU#6, FU#7, FU#8) were also
+included as they are UNICEF's primary structured operational reporting documents during the
+escalation period and contain detailed programme response data unavailable in the press releases.
+The official X/social media account was not used to avoid duplication with website content.
+
+NOTE ON PDF FILES:
+Three PDFs placed in this folder are valid PDF files (double .pdf.pdf extension is a naming
+artifact). Text extracted via pdftotext to fu6_extracted.txt, fu7_extracted.txt, fu8_extracted.txt.
+Full extracted text available in those companion files.
+
+========================================================
+ITEM 1 — FLASH UPDATE #6
+Document ID: UNICEF_001
+Date: 2 April 2026
+Type: Flash Update PDF
+File: Lebanon-Humanitarian-Flash-Update-No.6(Escalation-of-Hostilities)-2-April-2026.pdf.pdf
+Extracted text: fu6_extracted.txt
+========================================================
+
+HIGHLIGHTS:
+- At least 1,318 killed (125 children), 3,935 injured (429 children) since 2 March (MoPH)
+- Over 1.1 million displaced, including 390,000 children; 136,321 in 669 official shelters
+- UNICEF RRM reached 188,155 IDPs in 360+ shelters, on the move, and in hard-to-reach areas
+- Jnah area: Israeli airstrike damaged civilian infrastructure; continued urban bombing
+- Cross-border: 202,477 individuals crossed Lebanon→Syria (Mar 2–27): 175,134 Syrians + 27,343 Lebanese
+- Schools: 439 public schools closed; 364 of 669 shelters are schools; ~256,000 students affected
+- Digital EORE campaign reached over 1 million individuals on UXO/explosive ordnance risk
+- AaSalameh: 5,006 children vaccinated to date; 18 PSUs + 16 AaSalameh centres operational
+- UNICEF NDA cash (National Disability Allowance): advanced payment for 38,000 beneficiaries from 10 March
+- Health: 53 healthcare workers killed, 137 injured; 67 vehicles + 20 medical facilities damaged; 5 hospitals closed
+- Funding: requires USD 48.3M for 3-month response; 77% gap (only USD 10.9M available)
+
+CITIZEN-FACING GUIDANCE EMBEDDED:
+- EORE messaging: do not touch unexploded ordnance; report locations (1M+ reached)
+- AaSalameh/PHC: vaccination and primary care accessible at operational centres
+- RRM distributions reaching families in shelters and on the move
+- NDA cash payment announced (disability allowance beneficiaries)
+
+========================================================
+ITEM 2 — FLASH UPDATE #7
+Document ID: UNICEF_002
+Date: 9 April 2026
+Type: Flash Update PDF
+File: Lebanon-Humanitarian-Flash-Update-No.7(Escalation-of-Hostilities)-09-April-2026.pdf.pdf
+Extracted text: fu7_extracted.txt
+========================================================
+
+HIGHLIGHTS:
+- April 8 = deadliest day of conflict: 303 killed (33 children), 1,150+ injured (153 children)
+- Total since 2 March: 1,888 killed, 6,092 injured (MoPH as of Apr 9)
+- 1.1 million displaced, 390,000 children; 139,241 in 680 shelters as of Apr 8
+- 16 unaccompanied/separated children identified on Apr 8 escalation; 35 total reunited
+- UNICEF reached ~100,000 people in hard-to-reach areas since 2 March via joint WFP-UNICEF convoys
+- Apr 8 mission to Tebnine (only operational hospital in Bint Jbeil): first UN convoy — reached 4,000 families
+  in 26 villages + hospital with IEHK kits (4 kits, 40,000 people capacity), medications, WASH supplies
+- RRM reached 205,300 IDPs; second round distributions initiated Apr 7
+- 975 education kits distributed in 174 shelters; 600 schools reopened in North Lebanon/Akkar
+- Remote learning: 40,000 teachers + 390,000 students on platforms; 20GB free data/weekday (MoTel)
+- EORE digital campaign: 1 million individuals reached; 776 frontline workers trained; 35,923 materials distributed
+- Health: 57 HCW killed, 158 injured; 93 attacks on EMS; 75 vehicles + 20 facilities damaged; 6 hospitals closed
+- Airstrikes disabled key crossings — 150,000 people effectively isolated with limited humanitarian access
+- Cross-border: 206,466 Syrians + 36,794 Lebanese crossed to Syria (Mar 2–Apr 5)
+
+CITIZEN-FACING GUIDANCE EMBEDDED:
+- EORE: do not touch/report UXO; campaign reached 1M+
+- Access warning: key crossings disabled; movement severely constrained in south
+- RRM: supplies distributed to families in shelters and hard-to-reach areas
+- Remote learning: 20GB free data per weekday via Ministry of Telecommunications
+
+========================================================
+ITEM 3 — WEBSITE PRESS RELEASE
+Document ID: UNICEF_003
+Date: 10 April 2026 (published) / 9 April 2026 (event date)
+Type: Press release / statement
+URL: https://www.unicef.org/lebanon/press-releases/unicef-statement-intensified-strikes-lebanon
+========================================================
+
+FULL TEXT:
+NEW YORK, 9 April 2026 – "The intensification of hostilities in Lebanon continues to exact a
+devastating and inhumane toll on children. In just minutes yesterday, as news of a regional
+ceasefire agreement briefly ignited hope across the country, deadly Israeli airstrikes struck
+across Lebanon, reportedly killing 33 children and injuring 153.
+
+"Children and families faced a wave of bombardments that tore through communities with
+devastating impact. The latest bloodshed adds to a staggering 600 children either killed or
+injured in Lebanon since 2 March.
+
+"UNICEF is receiving reports of children being pulled from under the rubble, while others
+remain missing and separated from their families. Many are experiencing trauma, having lost
+loved ones, their homes, and any sense of safety. Across the country, more than one million
+people have been uprooted, including an estimated 390,000 children, many for the second,
+third, or even fourth time.
+
+"International humanitarian law is clear: civilians, including children, must be protected
+at all times. All parties to the conflict must take all feasible precautions to protect
+civilians and civilian infrastructure, and ensure safe, sustained, and unimpeded humanitarian
+access. The use of explosive weapons with wide-area effects in densely populated areas pose
+a deadly threat for children. They must stop.
+
+"UNICEF is on the ground in Beirut, treating many injured children under the UNICEF-supported
+Assistance and Care for War-Wounded and Affected Children (ACWA) programme. As needs surge,
+UNICEF is scaling up its emergency response. Our teams are helping to deliver essential
+supplies in shelters, medical supplies to public health facilities, and mobile units provide
+urgent care to displaced families.
+
+"While ceasefire efforts elsewhere have brought a measure of relief, as the UN Secretary-General
+said earlier today, the ongoing military activity in Lebanon poses a grave risk to the ceasefire
+and the efforts toward a lasting and comprehensive peace in the region. The children in Lebanon
+cannot be left behind."
+
+========================================================
+ITEM 4 — FLASH UPDATE #8
+Document ID: UNICEF_004
+Date: 16 April 2026
+Type: Flash Update PDF
+File: Lebanon-Humanitarian-Flash-Update-No.8(Escalation-of-Hostilities)-16-April-2026.pdf.pdf
+Extracted text: fu8_extracted.txt
+========================================================
+
+HIGHLIGHTS:
+- Total since 2 March: 2,196 killed (172 children), 7,185 wounded (661 children) (MoPH Apr 16)
+- 1.1 million displaced, 390,000 children; 141,613 in 690 collective sites as of Apr 16
+- April 15: Qasmieh bridge (last crossing linking Tyre to Sidon) destroyed — area severed
+  (follows destruction of 4 Litani River bridges since 2 March); south Lebanon effectively isolated
+- Tebnine Governmental Hospital (only operational facility in Bint Jbeil): sustained significant
+  damage from airstrikes; emergency dept + ventilators/monitors impacted
+- Health: 93 HCW killed, 225 injured; 122 attacks on EMS; 109 vehicles + 25 medical facilities; 6 hospitals closed
+- WASH: 365,000L fuel to 72 water facilities + 34 wastewater stations; services for 2.8M people (409K IDPs)
+- RRM: 210,350 IDPs reached in 378+ shelters; 2nd round reached ~48,580 IDPs
+- Apr 14 convoy: Hasbaya + 7 Arkoub villages (~2,800 people)
+- Apr 15 convoy: Rashidye Palestinian camp near Naqoura (3,000 families); 2nd convoy cancelled — Tyre inaccessible
+- Child protection: 27,899 individuals reached in 196 shelters + 91 locations; 11,839 CBPSS (psychosocial)
+- Education: 600 schools reopened; 336 still closed; 115,100 students still affected
+- EORE: 1M+ individuals reached; UNICEF-MoPH ACWA: 20 children received surgical interventions
+
+CITIZEN-FACING GUIDANCE EMBEDDED:
+- Bridge destruction warning: Tyre area now accessible only by alternative routes; movement warning
+- EORE: do not approach/report UXO
+- Vaccination and health services via PSUs, AaSalameh centres, PHCCs
+- Psychosocial support services available in shelters
+
+========================================================
+ITEM 5 — WEBSITE PRESS RELEASE
+Document ID: UNICEF_005
+Date: 22 April 2026
+Type: Press release / announcement
+URL: https://www.unicef.org/lebanon/press-releases/ministry-public-health-partners-call-protect-every-child-vaccination
+========================================================
+
+FULL TEXT:
+Beirut, 22 April 2026 - Amid ongoing crises, the Ministry of Public Health (MoPH), together
+with the European Union, UNICEF, WHO, the Lebanese Red Cross and Gavi, marks World
+Immunization Week with a renewed call to ensure that every child in Lebanon is protected
+through routine vaccination.
+
+The event also marks the official launch of Lebanon's National Immunization Strategy (NIS),
+a key milestone led by the Ministry of Public Health to strengthen and sustain immunization
+services nationwide. The Strategy sets a clear vision to improve vaccination coverage and
+reinforce the resilience of the national immunization system, ensuring that every child in
+Lebanon is reached — especially the most vulnerable.
+
+While the ceasefire offers a critical opportunity for recovery, the impact of the recent
+escalation continues to affect children and families across the country. Displacement and
+increased vulnerabilities have placed many children at risk of missing essential vaccinations.
+
+In this context, immunization remains a cornerstone of child survival and a critical first
+line of defense against disease outbreaks. Vaccines are among the most effective and
+cost-efficient public health interventions, protecting children from life-threatening diseases
+such as measles and polio, especially in fragile and crisis-affected settings.
+
+[Quotes from Minister of Public Health Dr Rakan Nasereddine, EU Head of Cooperation
+Alessandra Viezzer, UNICEF Deputy Representative Andrea Berther, WHO Health Emergencies
+lead Dr Gabriel Novelo Sierra]
+
+Vaccination services continue to be provided free of charge through Primary Health Care
+Centres (PHCs) across the country, with funding support from the European Union and Gavi.
+Outreach activities expand access to displaced families in collective shelters and host
+communities through AaSalameh programme and Primary Healthcare Outreach Units (PHOUs).
+
+Parents and caregivers are encouraged to review their children's vaccination records and
+ensure they are up to date with all recommended doses.
+
+KEY CITIZEN-FACING GUIDANCE:
+- Action: Check children's vaccination records; update all doses
+- Channel: PHC centres nationwide (free of charge); AaSalameh programme; PHOUs (mobile outreach)
+- Target: Parents and caregivers, especially displaced families in shelters
+
+========================================================
+ITEM 6 — WEBSITE PRESS RELEASE
+Document ID: UNICEF_006
+Date: 30 April 2026
+Type: Press release / donor announcement
+URL: https://www.unicef.org/lebanon/press-releases/republic-korea-contributes-unicef-emergency-response-lebanon
+========================================================
+
+FULL TEXT:
+Beirut, 30 April 2026 – As the crisis in Lebanon continues to affect children and families,
+the Government of the Republic of Korea has contributed US$1 million to UNICEF to support
+emergency education and nutrition interventions.
+
+This timely contribution will help ensure that children affected by the crisis can continue
+learning and access essential nutrition services. In partnership with the Government of Lebanon,
+UNICEF will support both in-person and remote learning, including through safe learning spaces
+and community-based programmes, while delivering critical nutrition support to vulnerable
+children, adolescents, and pregnant and breastfeeding women.
+
+[Quotes from Korean Ambassador Gyusuk Geon and UNICEF Representative Marcoluigi Corsi]
+
+The support will also strengthen access to life-saving nutrition services and promote better
+child feeding and care practices among families, helping protect children's growth and
+development during a period of heightened vulnerability.
+
+========================================================
+SOURCE METADATA
+========================================================
+Organization: UNICEF Lebanon
+Platforms: Website (press center) — 3 items; PDF Flash Update series — 3 items
+Languages: English
+Flash Update series: FU#6 (2 Apr), FU#7 (9 Apr), FU#8 (16 Apr) — full text in extracted .txt files
+Website items: Apr 10 statement, Apr 22 vaccination call, Apr 30 Korea donation
+X/social media: Not included (avoids duplication with website content)

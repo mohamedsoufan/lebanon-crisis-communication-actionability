@@ -1,0 +1,19 @@
+communication_type,count,pct_of_total,average_score,pct_high_4_5
+hotline / contact guidance,2,1.1,5.0,100.0
+service announcement / public call to action,1,0.5,5.0,100.0
+service announcement / coordination update,1,0.5,4.0,100.0
+advocacy statement,1,0.5,4.0,100.0
+warning/alert,12,6.6,3.83,66.7
+service announcement,7,3.8,3.29,57.1
+donor announcement / coordination update,1,0.5,3.0,0.0
+operational update,9,4.9,2.56,0.0
+warning / alert,2,1.1,2.5,0.0
+clarification statement,4,2.2,2.0,0.0
+incident report,32,17.6,2.0,0.0
+institutional notice,1,0.5,2.0,0.0
+media engagement,5,2.7,2.0,0.0
+situation report,75,41.2,1.57,10.7
+institutional/ceremonial,2,1.1,1.5,0.0
+coordination update,24,13.2,1.25,4.2
+political / ceremonial statement,2,1.1,1.0,0.0
+political/ceremonial,1,0.5,0.0,0.0

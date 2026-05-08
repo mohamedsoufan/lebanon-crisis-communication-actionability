@@ -1,0 +1,183 @@
+SOURCE: UNHCR Lebanon — Flash Update Series
+PLATFORM: PDF Flash Updates (public, posted on UNHCR Lebanon website)
+COLLECTION WINDOW: April 1, 2026 – May 7, 2026
+SOURCE TYPE: UN agency
+DOCUMENT TYPE: Weekly situation / coordination reports
+
+NOTE ON SOURCE SELECTION:
+The official UNHCR Lebanon X account was not used because the Flash Updates provide the
+primary structured public crisis updates during the study window and reduce duplication with
+social media summaries. Flash Updates are the authoritative weekly output of UNHCR Lebanon's
+response and contain embedded citizen-relevant guidance (WhatsApp channel, HELP website,
+return risk advisories, shelter locations).
+
+NOTE ON COVERAGE:
+Five Flash Updates overlap the study window: FU#5 (Mar 30–Apr 5), FU#6 (Apr 6–12),
+FU#7 (Apr 13–19), FU#8 (Apr 20–26), FU#9 (Apr 27–May 3).
+Flash Update #6 (April 6–12, 2026) was NOT available in the source materials provided
+and is excluded from this dataset. Four Flash Updates are included: FU#5, FU#7, FU#8, FU#9.
+
+========================================================
+FLASH UPDATE #5
+Period: 30 March – 5 April 2026
+Document ID: UNHCR_001
+========================================================
+
+KEY FIGURES (as of 5 April 2026):
+- Internally displaced persons: 137,774 in shelters
+- Active shelters: 677
+- Injuries since Oct 2023: ~8,000+ (cumulative)
+- Fatalities since Oct 2023: ~2,500+ (cumulative)
+
+KEY DEVELOPMENTS:
+- Jnah airstrike (April 1): Israeli airstrike damaged 3 active collective shelters in Jnah area
+  (Beirut), requiring emergency relocation of displaced families
+- Hard-to-reach areas: Spotlight on families trapped in conflict-affected areas unable to
+  access humanitarian assistance due to ongoing hostilities and access constraints
+- Saida eviction risks: Displaced families in Sidon (Saida) facing eviction threats from
+  temporary accommodation; UNHCR engaging with landlords and authorities
+- Tyre airstrike: Israeli strike killed a father and his two sons in Tyre area
+
+CASH AND LIVELIHOODS:
+- Emergency cash assistance at USD 145 per household per month for registered displaced families
+- UNHCR coordinating with WFP and partners on cash delivery to hard-to-reach households
+
+COMMUNICATION CHANNELS (citizen-facing):
+- SMS sent to 157,000 registered displaced families with updates and guidance
+- WhatsApp information channel: 73,000 subscribers; guidance on shelter access, protection
+  risks, and available assistance
+- HELP website (help.unhcr.org/lebanon): self-service registration and information portal
+
+PROTECTION:
+- Monitoring of eviction risks in urban areas; legal assistance provided to at-risk families
+- Gender-based violence risks elevated in collective shelter settings; response teams deployed
+
+SHELTER OPERATIONS:
+- UNHCR and partners supporting 677 collective shelters across Lebanon
+- Emergency shelter NFI distributions ongoing for newly displaced
+
+========================================================
+FLASH UPDATE #7
+Period: 13–19 April 2026
+Document ID: UNHCR_002
+========================================================
+
+KEY FIGURES (as of 19 April 2026):
+- Internally displaced persons: 111,577 in shelters
+- Active shelters: 659 (decline from prior week due to returns and consolidations)
+
+KEY DEVELOPMENTS:
+- High Commissioner visit: UNHCR High Commissioner Barham Salih visited Lebanon April 13–15;
+  met with Lebanese authorities, displaced communities, and humanitarian partners; emphasized
+  UNHCR commitment to protection during ongoing hostilities
+- Ceasefire-period movements: Continued fluid population movements — some families attempting
+  return to south Lebanon amid ongoing Israeli military presence and UXO contamination risks;
+  UNHCR issuing guidance on return risks
+- Return risk advisory: UNHCR strongly advising against premature return to areas with active
+  UXO contamination, damaged infrastructure, and unresolved security conditions; directing
+  families to verify safety through official channels before return
+- Israeli military activity: Ongoing airstrikes and military operations in south Lebanon;
+  displacement continuing from border areas
+
+CHILD PROTECTION:
+- 13 separated and unaccompanied children identified during reporting week
+- 10 children successfully reunited with families through tracing mechanisms
+- 3 children placed in interim care pending family tracing
+
+SHELTER:
+- Shelter numbers declining as some families return; consolidation of operational sites
+- UNHCR monitoring spontaneous returns with field teams; safety assessments ongoing
+
+COMMUNICATION CHANNELS:
+- WhatsApp information channel: active; guidance on return risks and protection services
+- HELP website: registration and shelter location information available
+
+========================================================
+FLASH UPDATE #8
+Period: 20–26 April 2026
+Document ID: UNHCR_003
+========================================================
+
+KEY FIGURES (as of 26 April 2026):
+- Internally displaced persons: 115,432 in shelters
+- Active shelters: 631
+
+KEY DEVELOPMENTS:
+- EPCA cash assistance spotlight: Emergency Preparedness and Crisis Anticipation (EPCA)
+  cash program expanded; direct transfers to households; Uhud story featured — individual
+  displaced family beneficiary whose story illustrates impact of cash assistance on daily
+  survival and dignity
+- WhatsApp channel: 74,000 subscribers; 4 targeted messages sent during reporting week:
+    1. ERW/UXO safety guidance (do not touch unexploded ordnance; report locations)
+    2. Return risk advisory (south Lebanon conditions not yet safe for mass return)
+    3. Child safety guidance (keeping children away from conflict-affected structures)
+    4. Available assistance channels (HELP website + hotline referral)
+- Shelter numbers: slight uptick (from 111,577 to 115,432) — new displacement from
+  continued strikes offsetting returns
+
+CASH AND LIVELIHOODS:
+- EPCA cash: USD 145/household/month baseline; top-ups for most vulnerable
+- Payments reaching households via e-transfer and partner cash points
+
+PROTECTION:
+- Continued monitoring of spontaneous returns; field teams in Tyre, Nabatieh, and Bekaa
+- ERW contamination documented in returned areas; UNHCR liaising with LMAC on demining
+
+COMMUNICATION CHANNELS (citizen-facing):
+- WhatsApp: 74,000 subscribers; primary mass communication channel for UNHCR Lebanon
+- HELP website (help.unhcr.org/lebanon): registration, shelter search, referral pathways
+- Hotline referral included in weekly messaging
+
+========================================================
+FLASH UPDATE #9
+Period: 27 April – 3 May 2026
+Document ID: UNHCR_004
+========================================================
+
+KEY FIGURES (as of 3 May 2026):
+- Total displaced (IDP): 1,049,328
+- Displaced in collective shelters: 119,623
+- Active shelters: 626
+- Total injuries (since Oct 2023): 8,020
+- Total fatalities (since Oct 2023): 2,586
+- Syrian nationals who crossed to Syria: 306,888
+- Lebanese nationals who crossed to Syria: 64,865
+
+KEY DEVELOPMENTS:
+- Shelter numbers continuing to fluctuate; 119,623 in collective sites, others in informal
+  arrangements (rented accommodations, staying with host families)
+- Ongoing Israeli military activity documented; casualties and displacement continuing
+- Cross-border movement: significant numbers of both Syrian and Lebanese nationals crossing
+  into Syria — 306,888 Syrians and 64,865 Lebanese; UNHCR monitoring conditions at crossings
+- Protection monitoring at border crossing points; documentation and referral services
+
+SHELTER AND NFI:
+- 626 collective shelters operational
+- NFI distributions and hygiene kit distributions continuing
+- Shelter rehabilitation and upgrade projects ongoing in priority sites
+
+CASH ASSISTANCE:
+- EPCA cash transfers continuing; coordinating with WFP on complementary food assistance
+- Targeting criteria refined to reach most vulnerable displaced households
+
+COMMUNICATION AND INFORMATION:
+- WhatsApp channel: subscribers maintained at ~74,000+; weekly messaging continuing
+- HELP website: updated with shelter information and registration pathways
+- UNHCR field teams conducting outreach in shelter sites and return areas
+
+CROSS-BORDER:
+- 306,888 Syrian nationals returned to Syria from Lebanon during crisis period
+- 64,865 Lebanese nationals crossed to Syria (temporary refuge or onward movement)
+- UNHCR monitoring conditions; voluntary repatriation programs suspended pending
+  security conditions in Syria
+
+========================================================
+SOURCE METADATA
+========================================================
+Organization: UNHCR Lebanon (United Nations High Commissioner for Refugees)
+Document series: Lebanon Flash Update
+Language: English
+Format: PDF (publicly available on UNHCR Lebanon website)
+Flash Updates in study window: FU#5, FU#6, FU#7, FU#8, FU#9
+Flash Updates included in dataset: FU#5, FU#7, FU#8, FU#9 (FU#6 not available in source materials)
+Primary audience: Humanitarian coordination sector + public

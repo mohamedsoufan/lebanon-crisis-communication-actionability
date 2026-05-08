@@ -1,0 +1,26 @@
+# Raw social media files
+data/raw/01_DRM_Lebanon/
+data/raw/02_Ministry_Social_Affairs/
+data/raw/03_Ministry_Public_Health/
+data/raw/04_Lebanese_Civil_Defense/
+data/raw/05_Lebanese_Army/
+data/raw/06_Lebanese_Red_Cross/
+data/raw/09_WFP_Lebanon/
+data/raw/lebarmy official posts on X.json
+data/raw/RedCrossLebanon.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo

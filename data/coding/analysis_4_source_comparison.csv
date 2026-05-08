@@ -1,0 +1,10 @@
+source,source_group,count,average_score,pct_high_4_5,pct_low_0_1,most_common_commtype
+UNHCR Lebanon,humanitarian/UN,4,4.75,100.0,0.0,situation report
+UNICEF Lebanon,humanitarian/UN,6,4.5,83.3,0.0,situation report
+Lebanese Army,emergency responder,40,2.8,30.0,15.0,incident report
+WFP Lebanon,humanitarian/UN,21,2.38,0.0,0.0,operational update
+Ministry of Public Health,state/ministry,42,1.5,4.8,69.0,situation report
+Lebanese Civil Defense,emergency responder,27,1.44,7.4,63.0,coordination update
+Lebanese Red Cross,emergency responder,7,1.29,0.0,42.9,incident report
+DRM Lebanon,state/ministry,30,1.2,3.3,90.0,situation report
+Ministry of Social Affairs,state/ministry,5,1.0,0.0,60.0,clarification statement

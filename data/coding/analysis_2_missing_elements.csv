@@ -1,0 +1,6 @@
+element,field,present_yes,missing_no,pct_present,pct_missing
+Specific location,location,108,74,59.3,40.7
+Clear instruction/action,instruction,35,147,19.2,80.8
+Access channel / contact,contact_link,19,163,10.4,89.6
+Time or date,time_date,147,35,80.8,19.2
+Target group identified,target_group,51,131,28.0,72.0
